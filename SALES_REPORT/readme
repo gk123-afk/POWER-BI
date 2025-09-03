@@ -1,0 +1,53 @@
+# 📊 Power BI Analytics Report  
+
+[![Power BI](https://img.shields.io/badge/Microsoft-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)  
+[![Status](https://img.shields.io/badge/Project-Completed-brightgreen)](#)  
+
+---
+
+## 📌 Project Overview  
+This repository contains an **interactive Power BI dashboard** built for data visualization and analytics.  
+The project demonstrates the complete workflow of importing a dataset, transforming it using **Power Query**, creating measures with **DAX**, and building an **interactive multi-page dashboard**.  
+
+---
+
+## 🛠️ Tech Stack  
+- **Power BI Desktop** – Data modeling & dashboard development  
+- **Power Query** – Data cleaning, transformation, and ETL  
+- **DAX (Data Analysis Expressions)** – Custom measures and calculated columns  
+- **CSV Dataset** – Used as the source file  
+
+---
+
+## 📂 Dataset  
+- Format: **CSV**  
+- Contains details about:  
+  - Orders (Category, Sub-Category, Segment, Payment Mode)  
+  - Sales & Profit values  
+  - Geographic attributes (Region, State)  
+  - Shipping details (Ship Mode, Delivery Days)  
+  - Time-series information (Order Dates for monthly/yearly analysis)  
+
+---
+
+## 📈 Visuals Included  
+The Power BI report includes the following visuals:  
+- Sales by Category & Sub-Category  
+- Sales by Region & State  
+- Monthly Sales and Profit (Time Series)  
+- Sales by Segment  
+- Sales by Payment Mode  
+- Sales by Ship Mode  
+- KPI Cards (Total Sales, Profit, Average Delivery Days)  
+
+---
+
+## 📂 Repository Structure  
+📁 powerbi-analytics-report
+┣ 📄 README.md # Project documentation
+┣ 📄 dashboard.pbix # Power BI dashboard file
+┣ 📄 dataset.csv # Source dataset
+┗ 📁 images # Screenshots of the report (optional)
+
+
+                             
